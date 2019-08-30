@@ -1,28 +1,26 @@
 html {
-  background-color: #ADD8E6
-}
+  background-color:BROWN
 
+}
 p {
   color: #cyan
 }
-
 .Norm {
   text-align: center;
-  color: #ff9f40
+  color: #ff9f40;
+  font-size:18
 }
-
 .stuff {
-  color: grey;
-  background-color: blue;
-}
+  color: #ff9f40;
+  background-color:;
 
+}
 .main {
-  font-size: 12;
-  font-family: fantasy;
+  font-size: 20;
+  font-family:serif;
   color: inherit;
   #rgba(255, 204, 204, 0.5);
 }
-
 .responsive-img {
   width: auto;
   max-width: 1600px;
