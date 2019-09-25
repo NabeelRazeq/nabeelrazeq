@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html{
   background-color:lightgrey;
 
@@ -69,4 +70,36 @@ header h1{
   text-align: center;
   font-weight: bold;
   color: Black
+=======
+html {
+  background-color: #ADD8E6
+}
+
+p {
+  color: #cyan
+}
+
+.Norm {
+  text-align: center;
+  color: #ff9f40
+}
+
+.stuff {
+  color: grey;
+  background-color: blue;
+}
+
+.main {
+  font-size: 12;
+  font-family: fantasy;
+  color: inherit;
+  #rgba(255, 204, 204, 0.5);
+}
+
+.responsive-img {
+  width: auto;
+  max-width: 1600px;
+  height: auto;
+  max-height: 1600px;
+>>>>>>> parent of d7b6529... a
 }
