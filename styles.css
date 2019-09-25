@@ -1,29 +1,72 @@
-html {
-  background-color:BROWN
+html{
+  background-color:lightgrey;
+
+
 
 }
-p {
-  color: #cyan
+@fontface{
+  font-family:"Impact";
+
+
 }
-.Norm {
+.Importent{
+  font-size:14;
+  font-style: oblique;
+  text-align:justify;
+
+}
+h1{
+  font-size:16;
+  font-style: italic;
+  color:blue;
+}
+a{
+  font-size:8;
+  font-style: oblique;
+  font-weight: lighter;
+  color:Black;
+}
+p{
+  font-size:12;
+  color:white;
+  scroll-behavior: auto;
+  scroll-behavior: smooth;
+}
+#Quote{
+  font-style:oblique;
+
+.dash{
+
+}
+}
+img{
+color:bl
+}
+.one{
+  background-color:#ff9f40;
+}
+.two{
+  background-color:#E3A609;
+}
+.three{
+  background-color:#cc7f33;
+}
+.four{
+  background-color:#b26f2c;
+}
+.five{
+  background-color:#995f26;
+  opacity:.9
+}
+header p{
+  color:Black;
+  font-size:26;
+  font-style: italic;
+  text-align:justify;
+  font-weight:bold;
+}
+header h1{
   text-align: center;
-  color: #ff9f40;
-  font-size:18
-}
-.stuff {
-  color: #ff9f40;
-  background-color:;
-
-}
-.main {
-  font-size: 20;
-  font-family:serif;
-  color: inherit;
-  #rgba(255, 204, 204, 0.5);
-}
-.responsive-img {
-  width: auto;
-  max-width: 1600px;
-  height: auto;
-  max-height: 1600px;
+  font-weight: bold;
+  color: Black
 }
